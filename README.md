@@ -4,19 +4,19 @@ Install full Anaconda (3.7) from https://www.anaconda.com/distribution/
 
 For the CNN notebook create a new conda environment as follows:
 
-conda create -n tf tensorflow
+$(base) conda create -n tf tensorflow
 
 Then activate this environment as follows:
 
-conda activate tf
+$(base) conda activate tf
 
 Next, in this environment first install these packages:
 
-conda install jupyter matplotlib pillow 
+$(tf) conda install jupyter matplotlib pillow 
 
 Then start jupyter in the tf environment:
 
-jupyter notebook
+$(tf) jupyter notebook
 
 
 
