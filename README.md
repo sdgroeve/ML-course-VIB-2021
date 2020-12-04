@@ -6,6 +6,8 @@ You can fork this to your own repository to obtain a working copy.
 
 Each notebook contains a button to run the code in Google Colaboratory.
 
+The lectures can be watched [on Youtube](https://www.youtube.com/playlist?list=PLv5LrvIzDSWZXAyIJmXgQ-ezCFELN8b5e).
+
 
 ## Further learning
 
