@@ -8,6 +8,7 @@ Each notebook contains a button to run the code in Google Colaboratory.
 
 The lectures can be watched [on Youtube](https://www.youtube.com/playlist?list=PLv5LrvIzDSWZXAyIJmXgQ-ezCFELN8b5e).
 
+You will enjoy competing against each other to fit the best performing model in [this year's Kaggle competition](https://www.kaggle.com/t/2f1d0164445f4cea81b03ffeddb558df).
 
 ## Further learning
 
