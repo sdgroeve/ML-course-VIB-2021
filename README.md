@@ -1,28 +1,13 @@
 # ML-course-VIB-2020
 
-Install full Anaconda (3.7) from https://www.anaconda.com/distribution/
+This repository contains the Jupyter notebooks for the VIB course on Machine Learning: ["A tour of Machine Learning: classification"](https://training.vib.be/all-trainings/tour-machine-learning-classification).
 
-For the CNN notebook create a new conda environment as follows:
+You can fork this to your own repository to obtain a working copy.
 
-$(base) conda create -n tf tensorflow
-
-Then activate this environment as follows:
-
-$(base) conda activate tf
-
-Next, in this environment first install these packages:
-
-$(tf) conda install jupyter matplotlib pillow 
-
-Then start jupyter in the tf environment:
-
-$(tf) jupyter notebook
+Each notebook contains a button to run the code in Google Colaboratory.
 
 
-
-## Further reading
-
-Link to Eye State Detection Kaggle site: https://www.kaggle.com/t/f324c36630ee4df8b2a28c6bcdad8cda
+## Further learning
 
 Coursera ML course: https://www.coursera.org/learn/machine-learning
 
