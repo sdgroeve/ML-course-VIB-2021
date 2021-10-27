@@ -1,4 +1,4 @@
-# ML-course-VIB-2020
+# ML-course-VIB-2021
 
 This repository contains the Jupyter notebooks for the VIB course on Machine Learning: ["A tour of Machine Learning: classification"](https://training.vib.be/all-trainings/tour-machine-learning-classification).
 
